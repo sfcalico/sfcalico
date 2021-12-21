@@ -5,6 +5,8 @@ but now I'm excited to have branched out into programming langauges. I’m a sof
 - 💞️ I’m looking to collaborate on anything related to language and or language communities, megaman, animals, and I'm sure much more I can't conjure up in the moment!
 - 📫 How to reach me : cull.redd@gmail.com
 
+I'm missing several months of green squares (September through December!). Am planning on transfering much of my work from the enterprise accounts I've used for Python and JS to this account soon!
+
 <!---
 sfcalico/sfcalico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
