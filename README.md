@@ -5,7 +5,6 @@ but now I'm excited to have branched out into programming langauges. I’m a sof
 - 💞️ I’m looking to collaborate on anything related to linguistics and or language communities, megaman, animals, and I'm sure much more I can't conjure up at the moment!
 - 📫 How to reach me : cull.redd@gmail.com
 
-I've been using GitHub Enterprise extensively since October, 2021 in my Python Programming course and my Software Dev Bootcamp and my personcal account doesn't show all the green squares for my commits. Been progressively moving over some projects worth sharing to my personal account and am still in the process.
 
 <!---
 sfcalico/sfcalico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
