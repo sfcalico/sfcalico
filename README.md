@@ -3,7 +3,7 @@ but now I'm excited to have branched out into programming langauges. I’m a sof
 - 👀 I’m interested in language, music, food, travel, standup.
 - 🌱 I’m currently learning JavaScript, React, PostgreSQL, Express, Node.js, Python, , FLask, PSQAlchemy.... just jumping in the deep end here. And on top of that am trying to find the time to keep up with Arabic, Turkish, French, and others. Not enough hours in the day! I'll sleep when I die!
 - 💞️ I’m looking to collaborate on anything related to linguistics and or language communities, megaman, animals, and I'm sure much more I can't conjure up at the moment!
-- 📫 How to reach me : cull.redd@gmail.com
+- 📫 How to reach me : <a href="mailto:cull.redd@gmail.com">my email</a> or on <a href="https://www.linkedin.com/in/cullen-reddy/">LinkedIn</a>
 
 
 <!---
